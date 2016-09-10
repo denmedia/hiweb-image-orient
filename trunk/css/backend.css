@@ -1,0 +1,10 @@
+.progress-bar div {
+  height: 20px;
+  background: grey;
+  margin: 8px 0;
+  width: 0; }
+
+.hw_io_message_done {
+  display: none; }
+
+/*# sourceMappingURL=backend.css.map */
