@@ -30,7 +30,7 @@
 		if (!isset($orientToDegree[$orientation])) return false;
 		///
 		$img = imagecreatefromjpeg($filePath);
-		$img = _hw_io_rotateImage($img, $orientToDegree[$orientation]);
+		$img = imagerotate($img, $orientToDegree[$orientation], 0);
 		return imagejpeg($img, $filePath);
 	}
 

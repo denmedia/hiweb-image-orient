@@ -2,7 +2,7 @@
 	/*
 Plugin Name: hiWeb Image Orient
 Description: This plugin read EXIF meta data, read orient info and auto-rotate image
-Version: 1.0
+Version: 1.1
 Author: Den Media
 Author URI: http://hiweb.moscow
 */
